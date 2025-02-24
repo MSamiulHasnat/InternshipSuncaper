@@ -1,7 +1,10 @@
 tryList = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 givenDict =  {'a': 1, 'b': 2, 'c': 3, 'd':4, 'e':5}
 
-matrix = [
+
+
+
+"""matrix = [
     [1, 2, 3],
     [4, 5, 6],
     [7, 8, 9]
@@ -30,7 +33,7 @@ for row in matrix:
 
 print("\nTransposed Matrix:")
 for row in transposedMatrix:
-    print(row)
+    print(row)"""
 
 
 """myString = "qwertyuioppoiuytrewq"
